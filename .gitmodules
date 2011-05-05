@@ -1,0 +1,3 @@
+[submodule "iOS/three20"]
+	path = iOS/three20
+	url = https://github.com/facebook/three20.git
